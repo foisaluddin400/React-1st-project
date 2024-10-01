@@ -1,0 +1,98 @@
+.card-head{
+    padding: 30px 0 10px 0;
+    text-align: center;
+}
+.cardList{
+    margin-left: 20px;
+}
+.card_section img{
+    width: 100%;
+    border-radius: 15px;
+}
+.card-data{
+    
+    display: grid;
+    grid-template-columns: 65% 35%;
+    width: 93%;
+    margin: auto;
+}
+.card_map{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 10px;
+}
+.main_card{
+    margin: 10px;
+    border: 1px solid rgb(201, 201, 201);
+    padding: 15px;
+    border-radius: 15px;
+}
+.card_btn button{
+    background-color: rgb(0, 112, 43);
+    padding: 13px ;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    transition: 0.3s;
+}
+.card_btn button:hover{
+    background-color: rgb(0, 0, 0);
+    
+    color: rgb(255, 255, 255);
+    
+
+}
+.card_amount_in{
+    border: 1px solid rgb(201, 201, 201);
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.item_add{
+    display: flex;
+    justify-content: space-between;
+}
+.amount_section h2{
+    text-align: center;
+    border-bottom: 1px solid rgb(161, 161, 161);
+    margin: 0 30px 10px 30px;
+    padding-bottom: 10px;
+}
+.cardList li{
+    padding-top: 10px;
+}
+hr{
+    border: 1px solid rgb(161, 161, 161);
+}
+
+.total{
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+}
+.total_time{
+    margin: 10px;
+}
+.list_in_card{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(233, 214, 214);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.remove button{
+    background-color: brown;
+    color: white;
+    border: none;
+    padding: 10px ;
+    margin-top: 7px;
+    border-radius: 20px;
+    transition: 0.3s;
+
+}
+.remove button:hover{
+    background-color: black;
+    color: white;
+}
