@@ -1,0 +1,63 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/ZxywjPM/food-photography-in-dubai.jpg",
+      "id": "1",
+      "recipe_name": "Spicy Garlic Shrimp",
+      "short_description": "A quick and flavorful shrimp dish with a kick of garlic and chili.",
+      "items": ["Shrimp", "Garlic", "Chili Flakes"],
+      "preparing_time": "20 minutes",
+      "calories": 250,
+      "Remove" : "Remove"
+      
+    },
+    {
+      "recipe_image": "https://i.ibb.co/ZxywjPM/food-photography-in-dubai.jpg",
+      "id": "2",
+      "recipe_name": "Classic Margherita Pizza",
+      "short_description": "An authentic Italian pizza topped with fresh mozzarella, tomatoes, and basil.",
+      "items": ["Pizza Dough", "Tomatoes", "Mozzarella"],
+      "preparing_time": "45 minutes",
+      "calories": 700,
+      "Remove" : "Remove"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/ZxywjPM/food-photography-in-dubai.jpg",
+      "id": "3",
+      "recipe_name": "Vegan Buddha Bowl",
+      "short_description": "A healthy bowl of quinoa, roasted vegetables, and creamy tahini sauce.",
+      "items": ["Quinoa", "Roasted Vegetables", "Tahini Sauce"],
+      "preparing_time": "30 minutes",
+      "calories": 400,
+      "Remove" : "Remove"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/ZxywjPM/food-photography-in-dubai.jpg",
+      "id": "4",
+      "recipe_name": "Lemon Herb Chicken",
+      "short_description": "Juicy chicken breast marinated in lemon and herbs, then grilled to perfection.",
+      "items": ["Chicken Breast", "Lemon", "Herbs"],
+      "preparing_time": "35 minutes",
+      "calories": 350,
+      "Remove" : "Remove"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/ZxywjPM/food-photography-in-dubai.jpg",
+      "id": "5",
+      "recipe_name": "Chocolate Lava Cake",
+      "short_description": "A rich and gooey chocolate cake with a molten center.",
+      "items": ["Dark Chocolate", "Butter", "Flour"],
+      "preparing_time": "25 minutes",
+      "calories": 450,
+      "Remove" : "Remove"
+    },
+    {
+      "recipe_image": "https://i.ibb.co/ZxywjPM/food-photography-in-dubai.jpg",
+      "id": "6",
+      "recipe_name": "Avocado Toast with Poached Egg",
+      "short_description": "Creamy avocado spread on toasted bread topped with a perfectly poached egg.",
+      "items": ["Avocado", "Bread", "Egg"],
+      "preparing_time": "15 minutes",
+      "calories": 300,
+      "Remove" : "Remove"
+    }
+  ]
